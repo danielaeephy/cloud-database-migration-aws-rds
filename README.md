@@ -1,4 +1,6 @@
 # Cloud Database Migration – AWS RDS Implementation
+![database image](https://github.com/user-attachments/assets/887265a7-b264-49be-a0c8-a1c6eab56b6f)
+
 
 **Role:** IT Business Analyst  
 **Tools:** Jira, SQL, AWS RDS, DMS, IAM, KMS
@@ -41,6 +43,8 @@ This project involved migrating a legacy on-premises SQL Server database to a se
   ![AWS-Architecture-diagram](https://github.com/user-attachments/assets/a7920aaf-0929-476a-a296-42b23a18df91)
 
 - `as-is-vs-to-be-process.pdf`
+  ![Cloud-database-migration-project](https://github.com/user-attachments/assets/1ec8c081-1087-43a2-b7e6-66a11842d71c)
+
 
 ---
 
