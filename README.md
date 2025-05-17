@@ -1,5 +1,5 @@
 # Cloud Database Migration – AWS RDS Implementation
-![database image](https://github.com/user-attachments/assets/887265a7-b264-49be-a0c8-a1c6eab56b6f)
+![Cloud-migration](https://github.com/user-attachments/assets/c590b9cf-b1e0-4ec7-bb1e-890f4ff93c4f)
 
 
 **Role:** IT Business Analyst  
